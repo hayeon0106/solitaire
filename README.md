@@ -4,6 +4,9 @@
 
 솔리테어 게임을 모작한 프로젝트이다.
 
+마이크로소프트에서도 해당 게임을 기본으로 제공하고 있다.
+
+
 </br>
 
 ### 게임 규칙
@@ -22,3 +25,12 @@
 
 ### 실행 화면
 
+</br>
+
+<p align = 'center'>
+ <img src="https://user-images.githubusercontent.com/84331957/176471658-9ceb9b64-7b51-4fc7-b471-96c7023d81b0.png" width="650"/>
+ <img src="https://user-images.githubusercontent.com/84331957/176471664-b528cae4-05b4-444e-8c23-8192ead139b0.png" width="650"/>
+ <img src="https://user-images.githubusercontent.com/84331957/176471669-f5e722f5-af13-4bc5-9c9d-b196ff36e6be.png" width="650"/>
+ <img src="https://user-images.githubusercontent.com/84331957/176471674-f820f811-8065-4f5c-b1a9-91de14e2e901.png" width="650"/>
+ <img src="https://user-images.githubusercontent.com/84331957/176471679-a4673c20-1779-483c-97e9-a7f903899249.png" width="650"/>
+</p>
