@@ -1,12 +1,11 @@
+﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
-public class csCardSet : MonoBehaviour
-{
+public class csCardSet : MonoBehaviour {
 	void OnMouseDown()
-	{
-		Debug.Log("클릭클릭");
-	}
+    {
+        Debug.Log("클릭클릭");
+    }
 
 }

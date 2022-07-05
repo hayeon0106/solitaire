@@ -1,22 +1,19 @@
+﻿using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 using System.Diagnostics;
 
-public class csTime : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-		Stopwatch watch = new Stopwatch();
-		watch.Start();
+public class csTime : MonoBehaviour {
 
-		watch.Stop();
-    }
+	// Use this for initialization
+	void Start () {
+        Stopwatch watch = new Stopwatch();
+        watch.Start();
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        watch.Stop();
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
 }

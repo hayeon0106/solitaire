@@ -1,26 +1,25 @@
+﻿using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
-public class csChangeScene : MonoBehaviour
-{
-	public void SceneTrans_title()
-	{
-		Application.LoadLevel("01-Title");
-	}
+public class csChangeScene : MonoBehaviour {
+
+    public void SceneTrans_title()
+    {
+        Application.LoadLevel("01-Title");
+    }
 
 	public void SceneTrans_GameScene()
-	{
-		Application.LoadLevel("02-Game");
-	}
+    {
+        Application.LoadLevel("02-Game");
+    }
 
-	public void SceneTrans_End()
-	{
-		Application.LoadLevel("03-FinishGame");
-	}
+    public void SceneTrans_End()
+    {
+        Application.LoadLevel("03-FinishGame");
+    }
 
-	public void GameEixt()
-	{
-		Application.Quit();
-	}
+    public void GameEixt()
+    {
+        Application.Quit();
+    }
 }
